@@ -1,0 +1,15 @@
+This is a test of the Stego and StegoExtract Programs
+
+It should copy this in, Encrypt it into an Image
+
+Then it should Dycrypt the image
+
+
+print the size of this payload, and the Gnumber
+
+Then it should print these words in an output file
+
+
+
+
+See you on the other Side!
